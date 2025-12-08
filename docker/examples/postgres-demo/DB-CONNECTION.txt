@@ -1,0 +1,23 @@
+PostgreSQL Connection Details
+=============================
+
+Host: localhost
+Port: 5432
+
+Database 1 (Main):
+  Name: ofbizmaindb
+  User: ofbiz
+  Password: Ab6SqDD2YM2lmEsvao-
+
+Database 2 (OLAP):
+  Name: ofbizolapdb
+  User: ofbizolap
+  Password: P7TFUtQHSuvha8gSxMME
+
+Database 3 (Tenant):
+  Name: ofbiztenantdb
+  User: ofbiztenant
+  Password: 4oXET73QGriblUejjbvR
+
+pgAdmin Connection String:
+postgresql://ofbiz:Ab6SqDD2YM2lmEsvao-@localhost:5432/ofbizmaindb

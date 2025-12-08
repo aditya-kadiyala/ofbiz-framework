@@ -20,7 +20,7 @@
 
 set -x
 
-if [ -d /ofbiz/plugins/solr ]; then
+if [ -d /ofbiz/plugins/solr ] && [ -f /ofbiz/plugins/solr/config/solrconfig.properties ]; then
   sed "s/^solr.webapp.domainName=.*/solr.webapp.domainName=${OFBIZ_HOST}/" \
     /ofbiz/plugins/solr/config/solrconfig.properties > /ofbiz/config/solrconfig.properties
 fi
