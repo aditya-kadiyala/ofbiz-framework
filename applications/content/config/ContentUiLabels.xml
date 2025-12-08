@@ -601,19 +601,19 @@
     </property>
     <property key="ContentCompanyName">
         <value xml:lang="ar">أوفبيز: مسير المحتوى</value>
-        <value xml:lang="da">OFBiz: Indholdsadministration</value>
-        <value xml:lang="de">OFBiz: Inhaltsverwaltung</value>
-        <value xml:lang="en">OFBiz: Content Manager</value>
-        <value xml:lang="es">OFBiz: Administración de Contenidos</value>
-        <value xml:lang="fr">OFBiz: gestion de contenu</value>
-        <value xml:lang="it">OFBiz: Gestione contenuti</value>
-        <value xml:lang="ja">OFBiz: コンテンツ管理</value>
-        <value xml:lang="pt">OFBiz: Gerenciador de conteúdo</value>
-        <value xml:lang="ro">OFBiz: Gestiune Continut</value>
-        <value xml:lang="th">OFBiz:หัวข้อการจัดการ</value>
-        <value xml:lang="vi">OFBiz: Quản trị nội dung</value>
+        <value xml:lang="da">BizWithAI: Indholdsadministration</value>
+        <value xml:lang="de">BizWithAI: Inhaltsverwaltung</value>
+        <value xml:lang="en">BizWithAI: Content Manager</value>
+        <value xml:lang="es">BizWithAI: Administración de Contenidos</value>
+        <value xml:lang="fr">BizWithAI: gestion de contenu</value>
+        <value xml:lang="it">BizWithAI: Gestione contenuti</value>
+        <value xml:lang="ja">BizWithAI: コンテンツ管理</value>
+        <value xml:lang="pt">BizWithAI: Gerenciador de conteúdo</value>
+        <value xml:lang="ro">BizWithAI: Gestiune Continut</value>
+        <value xml:lang="th">BizWithAI:หัวข้อการจัดการ</value>
+        <value xml:lang="vi">BizWithAI: Quản trị nội dung</value>
         <value xml:lang="zh">OFBiz：内容管理</value>
-        <value xml:lang="zh-TW">OFBiz:內容管理</value>
+        <value xml:lang="zh-TW">BizWithAI:內容管理</value>
     </property>
     <property key="ContentCompanySubtitle">
         <value xml:lang="ar">جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value>

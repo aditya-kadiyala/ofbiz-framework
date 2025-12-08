@@ -1,15 +1,20 @@
-# OFBiz Docker Setup - Running
+# BizWithAI Docker Setup - Running
 
 ## Status
 ✅ Docker containers are running
 ✅ PostgreSQL is accessible on localhost:5432
-✅ OFBiz is accessible on https://localhost:8443
+✅ BizWithAI (OFBiz) is accessible on https://localhost:8443
 
-## Access OFBiz
+## Access BizWithAI
 - URL: https://localhost:8443/partymgr
 - Username: admin
 - Password: ofbiz
 - Note: Browser will show security warning (self-signed certificate)
+
+## Branding Changes Applied
+✅ Browser titles changed from "OFBiz:" to "BizWithAI:"
+✅ Custom UI labels file: framework/common/config/ZZZCustomUiLabels.xml
+📝 Favicon: Replace files in themes/common-theme/webapp/images/favicon*
 
 ## PostgreSQL Connection
 See DB-CONNECTION.txt for full details.

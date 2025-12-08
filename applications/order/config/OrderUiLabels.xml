@@ -3134,21 +3134,21 @@
         <value xml:lang="zh-TW">你可以在這裡增加其他逗號分隔的電子郵件位址,這些電子郵件位址僅用於當前訂單</value>
     </property>
     <property key="OrderCompanyName">
-        <value xml:lang="de">OFBiz: Auftragsverwaltung</value>
-        <value xml:lang="en">OFBiz: Order Manager</value>
-        <value xml:lang="es">OFBiz: Gestión de pedidos</value>
-        <value xml:lang="fr">OFBiz : Gestion commerciale</value>
-        <value xml:lang="it">OFBiz: Gestione ordini</value>
-        <value xml:lang="ja">OFBiz: 注文管理</value>
-        <value xml:lang="nl">OFBiz: Order Manager</value>
-        <value xml:lang="pt-BR">OFBiz: Gestão de Pedidos</value>
-        <value xml:lang="ro">OFBiz: Gestiune Comanda </value>
-        <value xml:lang="ru">OFBiz: Управление заказами</value>
-        <value xml:lang="th">OFBiz: การจัดการรายการสั่งซื้อสินค้าสินค้า</value>
-        <value xml:lang="vi">OFBiz: Quản lý đặt hàng</value>
-        <value xml:lang="zh">OFBiz: 订单管理</value>
-        <value xml:lang="zh-CN">OFBiz: 订单管理</value>
-        <value xml:lang="zh-TW">OFBiz: 訂單管理</value>
+        <value xml:lang="de">BizWithAI: Auftragsverwaltung</value>
+        <value xml:lang="en">BizWithAI: Order Manager</value>
+        <value xml:lang="es">BizWithAI: Gestión de pedidos</value>
+        <value xml:lang="fr">BizWithAI: Gestion commerciale</value>
+        <value xml:lang="it">BizWithAI: Gestione ordini</value>
+        <value xml:lang="ja">BizWithAI: 注文管理</value>
+        <value xml:lang="nl">BizWithAI: Order Manager</value>
+        <value xml:lang="pt-BR">BizWithAI: Gestão de Pedidos</value>
+        <value xml:lang="ro">BizWithAI: Gestiune Comanda </value>
+        <value xml:lang="ru">BizWithAI: Управление заказами</value>
+        <value xml:lang="th">BizWithAI: การจัดการรายการสั่งซื้อสินค้าสินค้า</value>
+        <value xml:lang="vi">BizWithAI: Quản lý đặt hàng</value>
+        <value xml:lang="zh">BizWithAI: 订单管理</value>
+        <value xml:lang="zh-CN">BizWithAI: 订单管理</value>
+        <value xml:lang="zh-TW">BizWithAI: 訂單管理</value>
     </property>
     <property key="OrderCompanySubtitle">
         <value xml:lang="ar">جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value>
@@ -5985,7 +5985,7 @@
         <value xml:lang="fr">Gestion de Commandes</value>
         <value xml:lang="it">Applicazione gestione ordini</value>
         <value xml:lang="ja">注文管理業務</value>
-        <value xml:lang="nl">OFBiz: Order Manager</value>
+        <value xml:lang="nl">BizWithAI: Order Manager</value>
         <value xml:lang="pt-BR">Aplicativo de gestão de pedidos</value>
         <value xml:lang="ro">Aplicatie Gestiune Comenzi</value>
         <value xml:lang="ru">Управление заказами</value>

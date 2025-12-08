@@ -2295,19 +2295,19 @@
         <value xml:lang="zh-TW">評論</value>
     </property>
     <property key="WorkEffortCompanyName">
-        <value xml:lang="de">OFBiz: Arbeitseinsatz Manager</value>
-        <value xml:lang="en">OFBiz: WorkEffort Manager</value>
-        <value xml:lang="es">OFBiz: Administración de tareas</value>
-        <value xml:lang="fr">OFBiz: Gestion de tâches</value>
-        <value xml:lang="it">OFBiz: Gestione impegni di lavoro</value>
-        <value xml:lang="ja">OFBiz: 作業成果管理</value>
-        <value xml:lang="nl">OFBiz: WorkEffort Manager</value>
-        <value xml:lang="ro">OFBiz: Gestiune Sarcini de Lucru </value>
-        <value xml:lang="ru">OFBiz: WorkEffort Manager</value>
-        <value xml:lang="th">OFBiz: การจัดการความพยายามในการทำงาน</value>
-        <value xml:lang="vi">OFBiz: Quản lý công việc (Lượng giá nguồn lực)</value>
-        <value xml:lang="zh">OFBiz: 人工服务管理程序</value>
-        <value xml:lang="zh-TW">OFBiz: 工作投入管理程式</value>
+        <value xml:lang="de">BizWithAI: Arbeitseinsatz Manager</value>
+        <value xml:lang="en">BizWithAI: WorkEffort Manager</value>
+        <value xml:lang="es">BizWithAI: Administración de tareas</value>
+        <value xml:lang="fr">BizWithAI: Gestion de tâches</value>
+        <value xml:lang="it">BizWithAI: Gestione impegni di lavoro</value>
+        <value xml:lang="ja">BizWithAI: 作業成果管理</value>
+        <value xml:lang="nl">BizWithAI: WorkEffort Manager</value>
+        <value xml:lang="ro">BizWithAI: Gestiune Sarcini de Lucru </value>
+        <value xml:lang="ru">BizWithAI: WorkEffort Manager</value>
+        <value xml:lang="th">BizWithAI: การจัดการความพยายามในการทำงาน</value>
+        <value xml:lang="vi">BizWithAI: Quản lý công việc (Lượng giá nguồn lực)</value>
+        <value xml:lang="zh">BizWithAI: 人工服务管理程序</value>
+        <value xml:lang="zh-TW">BizWithAI: 工作投入管理程式</value>
     </property>
     <property key="WorkEffortCompanySubtitle">
         <value xml:lang="ar">جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value>
