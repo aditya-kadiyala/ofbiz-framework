@@ -649,3 +649,16 @@ Map isInvoiceInForeignCurrency() {
     Map serviceResult = run service: 'getPartyAccountingPreferences', with: [organizationPartyId: partyId]
     return success([isForeign: invoice.currencyUomId == serviceResult.baseCurrencyUomId])
 }
+
+/**
+ * Create a Note and link it to an Invoice
+ * @return Success response with the noteId created
+ */
+Map addInvoiceNote() {
+    Map serviceResult = run service: 'createNote', with: [*: parameters,
+                                                          note: parameters.noteInfo]
+    run service: 'createInvoiceNote', with: [*: parameters,
+                                             noteId: serviceResult.noteId]
+    return success(label('AccountingUiLabels', 'AccountingInvoiceNoteAdded'),
+            [noteId: serviceResult.noteId])
+}
