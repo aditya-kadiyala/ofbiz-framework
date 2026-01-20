@@ -146,7 +146,7 @@ ofbiz_setup_env() {
   OFBIZ_POSTGRES_TENANT_USER=${OFBIZ_POSTGRES_TENANT_USER:-ofbiztenant}
   OFBIZ_POSTGRES_TENANT_PASSWORD=${OFBIZ_POSTGRES_TENANT_PASSWORD:-ofbiztenant}
 
-  OFBIZ_DISABLE_COMPONENTS=${OFBIZ_DISABLE_COMPONENTS:-plugins/birt/ofbiz-component.xml}
+  OFBIZ_DISABLE_COMPONENTS=${OFBIZ_DISABLE_COMPONENTS-plugins/birt/ofbiz-component.xml}
 }
 
 ###############################################################################
