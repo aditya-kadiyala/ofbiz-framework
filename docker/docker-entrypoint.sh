@@ -146,13 +146,7 @@ ofbiz_setup_env() {
   OFBIZ_POSTGRES_TENANT_USER=${OFBIZ_POSTGRES_TENANT_USER:-ofbiztenant}
   OFBIZ_POSTGRES_TENANT_PASSWORD=${OFBIZ_POSTGRES_TENANT_PASSWORD:-ofbiztenant}
 
-###############################################################################
-# With https://issues.apache.org/jira/browse/OFBIZ-13314 a change has been here to allow disabling several components
-# A side effect is that you need to disable at least one component. By defaut it's birt component.
-# It's then complicate if you want to enable the birt component without disabling any other component.
-# A solution for that is to revert the changes done by https://github.com/apache/ofbiz-framework/pull/919
-# Fortunately it's also easy to be done by hand.
-  OFBIZ_DISABLE_COMPONENTS=${OFBIZ_DISABLE_COMPONENTS:-plugins/birt/ofbiz-component.xml}
+  OFBIZ_DISABLE_COMPONENTS=${OFBIZ_DISABLE_COMPONENTS-plugins/birt/ofbiz-component.xml}
 }
 
 ###############################################################################
